@@ -1,5 +1,4 @@
 ---
-layout: home
 ---
 ## Hi, I'm Ben.
 
