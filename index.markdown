@@ -1,6 +1,4 @@
----
----
-## Hi, I'm Ben.
+# Hi, I'm Ben.
 
 I live in London, and was born and raised in the UK. I like tormenting myself by trying to learn new (sometimes difficult) things. In the last few years this has been everything about wine, financial markets and retail investing, and most recently software development. 
 
