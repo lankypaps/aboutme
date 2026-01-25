@@ -40,4 +40,4 @@ The University of Edinburgh - *MA[Hons] Psychology*
 - Eventually running a marathon [and not breaking my foot like I did in 2025]
 - Becoming a smarter retail investor
 - Buying a house
-- You can find a longer list of things I find cool/ have recently consumed with my eyes/ears/mouth [here]
+- You can find a longer list of things I find cool/ have recently consumed with my eyes/ears/mouth [here](https://github.com/lankypaps/aboutme/blob/main/_posts/stuff_im_consuming.md)
