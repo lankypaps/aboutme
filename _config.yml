@@ -1,8 +1,8 @@
 title: Hi, I'm Ben. 
-description: mills.ben97@gmail.com 
+description: ben@fostermills.xyz 
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
 baseurl: ""
-url: https://lankypaps.github.io
-domain: lankypaps.github.io
+url: https://fostermills.xyz
+domain: fostermills.xyz
