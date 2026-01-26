@@ -3,6 +3,6 @@ description: mills.ben97@gmail.com
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
-baseurl: /aboutme/
+baseurl: ""
 url: https://lankypaps.github.io
 domain: lankypaps.github.io
