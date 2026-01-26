@@ -18,7 +18,7 @@ New business sales @ [Ravio](http://ravio.com) [Series A in 2025, led by Spark C
 ## What I've done before
 
 New business sales @ [LoyaltyLion](http://loyaltylion.com)
-- Loyaltylion is a martech platform for deploying loyalty programs to Shopify sites
+- LoyaltyLion is a martech platform for deploying loyalty programs to Shopify sites
 - I joined just after Series A at the beginning of 2021 as an SDR, where I learnt the foundations of SaaS and how to do inside sales
 - I finished my time there as an Account Executive, having sold the largest outbound deal in the company's history
 
