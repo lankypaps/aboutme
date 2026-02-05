@@ -4,7 +4,7 @@ layout: home
 
 I live in London, and was born and raised in the UK. I like tormenting myself by trying to learn new (sometimes difficult) things. In the last few years this has been everything about wine, financial markets and retail investing, and most recently software development. 
 
-My first job out of university was personal training, and I've tried many sports over the years, including football, hockey, rugby, cycling, cricket, track & field, and most recently boxing (my amateur record is 0-0-1. I no longer box, funnily enough). Endurance sports are my first love and I still run every week. 
+My first job out of university was personal training, and I love trying new sports. Most recently this was boxing (my amateur record is 0-0-1. I no longer box, funnily enough). Endurance sports are my first love and I still run every week. 
 
 I've worked in startups since 2021, mostly in sales. 
 
